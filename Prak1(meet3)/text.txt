@@ -1,0 +1,3 @@
+nilai praktikum pemrograman
+nim: 123 
+99.0
